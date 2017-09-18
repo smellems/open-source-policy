@@ -12,7 +12,7 @@ For GCTools team members, we have guidance on how GCTools puts this policy into 
 
 ### Credits
 
-This policy was originally forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy). 
+This policy was originally forked from the [18F policy](https://github.com/18f/open-source-policy). 
 
 
 ### Public domain
